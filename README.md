@@ -27,7 +27,7 @@ In this lab we will set up an active directory environment.<br />
 <p>Steps to take:</p>
 <ul>
     <li>Rename the NICs to help identify them easier. </li>
-    <li>Right-click the bridged connection (I named mines "internal network") -> `properties` -> `Internet Protocol Version 4 (TCP/IPv4)`-> click `properties`.</li>
+    <li>Right-click the bridged connection -> `properties` -> `Internet Protocol Version 4 (TCP/IPv4)`-> click `properties`.</li>
     <li>Configure IPv4:
         <ul>
             <li>IP address is the same as what you used for the bridged connection. Subnet Mask: `255.255.255.0`.</li>
